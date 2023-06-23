@@ -1,0 +1,4 @@
+https://blog.gitnux.com/code/python-openssl/
+https://www.dcode.fr/caesar-cipher
+https://www.rapidtables.com/convert/number/hex-to-ascii.html
+https://www.binaryhexconverter.com/hex-to-ascii-text-converter
